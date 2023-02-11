@@ -28,6 +28,6 @@
     "jsonwebtoken": "^8.5.1",
     "mocha": "^7.1.2",
     "mongoose": "^5.9.14",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   }
 }
